@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include"cv.h"
-#include"highgui.h"
+#include <stdio.h>
+#include <cv.h>
+#include <highgui.h>
 
 
 int g_slider_position_h1 = 0;
